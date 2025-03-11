@@ -1,7 +1,9 @@
+import HomePageLayout from './HomePageLayout'
+
 function Home() {
   return (
     <div>
-      <h1>Future Website in progress</h1>
+      <HomePageLayout/>
     </div>
   );
 }
