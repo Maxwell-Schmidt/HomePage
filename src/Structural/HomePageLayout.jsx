@@ -5,7 +5,7 @@ import resume from '../Assets/Maxwell_Schmidt_Resume_02.26.25.pdf'
 function HomePageLayout() {
     return (
       <div>
-        <nav style={{color:"black"}}>Welcome to the Home Page of Maxwell Schmidt</nav>
+        <nav style={{color:"white"}}>Welcome to the Home Page of Maxwell Schmidt</nav>
         <br></br>
         <Container>
             <Row>
