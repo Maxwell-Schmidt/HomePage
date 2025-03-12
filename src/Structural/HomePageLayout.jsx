@@ -19,8 +19,8 @@ function HomePageLayout() {
                         For more information on my qualifications or if you'd like to view my LinkedIn, see the links below!
                     </p>
                     <Row>
-                        <Col style={{textAlign: "center"}}><a href={resume}>Resumé</a></Col>
-                        <Col style={{textAlign: "center"}}><a href="https://www.linkedin.com/in/maxwell-r-schmidt/">LinkedIn</a></Col>
+                        <Col style={{textAlign: "center"}}><a href={resume} target="_blank">Résumé</a></Col>
+                        <Col style={{textAlign: "center"}}><a href="https://www.linkedin.com/in/maxwell-r-schmidt/" target="_blank">LinkedIn</a></Col>
                     </Row>
                 </Col>
             </Row>
