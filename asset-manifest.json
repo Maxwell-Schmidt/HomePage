@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/HomePage/static/css/main.cf8cb218.css",
-    "main.js": "/HomePage/static/js/main.23dcb9c9.js",
+    "main.js": "/HomePage/static/js/main.b706567a.js",
     "static/media/Max_Schmidt_Professional.jpeg": "/HomePage/static/media/Max_Schmidt_Professional.54783e663e1aa7729863.jpeg",
     "static/media/Maxwell_Schmidt_Resume_02.26.25.pdf": "/HomePage/static/media/Maxwell_Schmidt_Resume_02.26.25.c62de5a05dc5ab0adec7.pdf",
     "index.html": "/HomePage/index.html",
     "main.cf8cb218.css.map": "/HomePage/static/css/main.cf8cb218.css.map",
-    "main.23dcb9c9.js.map": "/HomePage/static/js/main.23dcb9c9.js.map"
+    "main.b706567a.js.map": "/HomePage/static/js/main.b706567a.js.map"
   },
   "entrypoints": [
     "static/css/main.cf8cb218.css",
-    "static/js/main.23dcb9c9.js"
+    "static/js/main.b706567a.js"
   ]
 }
