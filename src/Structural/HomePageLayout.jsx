@@ -11,10 +11,13 @@ function HomePageLayout(props) {
                     <Navbar.Brand as={Link} to="/">
                         Homepage of Maxwell Schmidt
                     </Navbar.Brand>
-                    <Nav className="me-auto">
-                        <Nav.Link as={Link} to="/">Home</Nav.Link>
-                        <Nav.Link as={Link} to="featured">Featured</Nav.Link>
-                    </Nav>
+                    <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+                    <Navbar.Collapse>
+                        <Nav className="me-auto">
+                            <Nav.Link as={Link} to="/">Home</Nav.Link>
+                            <Nav.Link as={Link} to="featured">Featured</Nav.Link>
+                        </Nav>
+                    </Navbar.Collapse>
                 </Container>
             </Navbar>
             <div style={{ margin: "1rem" }}>
