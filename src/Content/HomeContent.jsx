@@ -11,7 +11,7 @@ function HomeContent() {
                 <Col sm={12} md={8} lg={7}>
                     <img src={professionalPhoto} alt="Professional photo of Max Schmidt" style={{width:"inherit"}}/>
                 </Col>
-                <Col sm={12} md={4} lg={5} style={{backgroundColor:"lightgray"}}>
+                <Col sm={12} md={4} lg={5} style={{backgroundColor:"#e5e5f7"}}>
                     <p>
                         Welcome to my webpage! I am a third year student at the University of Wisconsin Madison studying Computer Science,
                         Data Science, and German. This website is in progress, but will hold my portfolio of professional projects as I create them.
