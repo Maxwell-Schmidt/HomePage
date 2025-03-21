@@ -6,7 +6,7 @@ import { Link, Outlet } from "react-router-dom";
 function HomePageLayout(props) {
     return (
         <div>
-            <Navbar bg="dark" variant="dark">
+            <Navbar collapseOnSelect expand="md" bg="dark" variant="dark">
                 <Container>
                     <Navbar.Brand as={Link} to="/">
                         Homepage of Maxwell Schmidt
